@@ -1,2 +1,2 @@
-# 2-Hour-ML-Challenge
-My attempt to make my first machine learning algorithm. This model projects the MLB baseball players that will produce the most fantasy points in under 2 hours (before my draft). This is by no means a finished or polished product, just something to showcase what I can do in a time crunch.
+# Creating a machine learning model in 2 hours to project the best fantasy baseball players
+My attempt to make my first machine learning algorithm. This model projects the MLB baseball players that will produce the most fantasy points in under 2 hours (before my draft). This is by no means a finished or polished product, just something to showcase what I can do in a time crunch. This is my first attempt at using machine learning. I plan on improving upon this project in the future since I did make some mistakes that I could not feasibly solve in 2 hours in a different repository.
